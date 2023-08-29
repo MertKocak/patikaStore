@@ -63,7 +63,3 @@ const styles = StyleSheet.create({
 })
 
 export default App;
-
-{/* <View style={styles.searchBar}>
-                <Text style={styles.searchBarText}>Ara...</Text>
-            </View> */}
